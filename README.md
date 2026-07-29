@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **shuumaku/shuumaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/shuumaku/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/shuumaku/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/shuumaku/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+<!--GitHub webring-->
+### [🐙 octo-ring 💍](https://octo-ring.com/)
+[← previous](https://octo-ring.com/p/wiggleforlife/prev) | [random](https://octo-ring.com/p/wiggleforlife/random) | [next →](https://octo-ring.com/p/wiggleforlife/next)
+
